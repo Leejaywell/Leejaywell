@@ -97,13 +97,13 @@ open_to: new opportunities · available within 1 week
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔥 [hot-track](https://github.com/Leejaywell/hot-track) | AI hot topic monitor — multi-source aggregation + LLM analysis + WebSocket push | React 19, Express 5, OpenRouter, Socket.io |
-| 🌐 [github-i18n](https://github.com/Leejaywell/github-i18n) | AI doc translation SaaS — GitHub App → auto-translate Markdown → PR delivery | Next.js 15, Prisma, MySQL, OpenRouter |
-| ⛓️ [blockchain-rs](https://github.com/Leejaywell/blockchain-rs) | Blockchain implementation from scratch | Rust |
-| 🏗️ [common-module](https://github.com/Leejaywell/common-module) | Spring Boot starter — auto-config + JSON-RPC integration | Java, Spring Boot |
-| 🖥️ [ui-builder](https://github.com/Leejaywell/ui-builder-backend) | Hotel official website builder (drag-and-drop) | Java, Vue.js |
+| Project                                                           | Description                                                                     | Stack                                      |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------ |
+| 🔥 [hot-track](https://github.com/Leejaywell/hot-track)           | AI hot topic monitor — multi-source aggregation + LLM analysis + WebSocket push | React 19, Express 5, OpenRouter, Socket.io |
+| 🌐 [github-i18n](https://github.com/Leejaywell/github-i18n)       | AI doc translation SaaS — GitHub App → auto-translate Markdown → PR delivery    | Next.js 15, Prisma, MySQL, OpenRouter      |
+| ⛓️ [blockchain-rs](https://github.com/Leejaywell/blockchain-rs)   | Blockchain implementation from scratch                                          | Rust                                       |
+| 🏗️ [common-module](https://github.com/Leejaywell/common-module)   | Spring Boot starter — auto-config + JSON-RPC integration                        | Java, Spring Boot                          |
+| 🖥️ [ui-builder](https://github.com/Leejaywell/ui-builder-backend) | Hotel official website builder (drag-and-drop)                                  | Java, Vue.js                               |
 
 </div>
 
@@ -223,35 +223,6 @@ Others       ██░░░░░░░░░░░░░░░░░░   ~7% 
 
 <details>
   <summary>🔧 Snake Animation Setup (GitHub Action)</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo (`Leejaywell/Leejaywell`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Leejaywell
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 </details>
 
 ---
