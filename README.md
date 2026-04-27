@@ -45,8 +45,8 @@ current_focus:
   - Crypto/digital asset trading platforms
 
 recent_companies:
-  - MEXC (2025–2026): Core trading infra — assets, wallets, matching engine
-  - DerbySoft (2016–2025): Hotel distribution platform — Booking.com, IHG connectors
+  - Core trading infra — assets, wallets, matching engine
+  - Hotel distribution platform — Booking.com, IHG connectors
 
 ai_tools_i_love:
   - Cursor / Claude Code / Codex
@@ -186,17 +186,13 @@ open_to: new opportunities · available within 1 week
 2026 ──── 🤖 AI Projects: hot-track · github-i18n  (Cursor / Claude Code / Codex)
            ↑ Full-stack AI coding — React 19, Next.js 15, OpenRouter, Socket.io
 
-2025 ──── 💱 MEXC — Golang Engineer
+2025 ──── 💱 Golang Engineer
            ↑ Trading platform: assets · wallets · matching engine · market data (BTC/ETH/USDT)
 
-2020 ──── 🛒 Shanghai Leyan — Java Sr. Engineer
-           ↑ Merchant conversion tool: order nudge · SMS channels · active task dispatch
-
-2019 ──── 🏨 DerbySoft — Booking.com × IHG Connector
-           ↑ ARI sync · rate plan mapping · order pipeline · Genius Rate / OTA go-live
-
-2016 ──── 🌐 DerbySoft — Go Platform (Hotel Distribution Middleware)
+2016 ──── 🌐 Go Platform (Hotel Distribution Middleware)
            ↑ Kafka + Groovy protocol adapter · Spring Boot starter · CRS ↔ OTA bridge
+             Booking.com × IHG Connector
+           ↑ ARI sync · rate plan mapping · order pipeline · Genius Rate / OTA go-live
 ```
 
 ---
