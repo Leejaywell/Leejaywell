@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=720&lines=Polyglot+engineer+%E2%80%94+Go+%2F+Rust+%2F+TS+%2F+Swift+%2F+Java;Shipping+open-source+across+AI%2C+Web3%2C+systems+%26+tools;30%2B+public+repos+%C2%B7+from+CLI+to+SaaS+to+native+apps;Building+in+public+%E2%80%94+commit+daily%2C+ship+weekly" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=720&lines=Polyglot+engineer+%E2%80%94+Go+%2F+Rust+%2F+TS+%2F+Swift+%2F+Java;Shipping+open-source+across+AI%2C+Web3%2C+systems+%26+tools;25%2B+public+repos+%C2%B7+from+CLI+to+SaaS+to+native+apps;Building+in+public+%E2%80%94+commit+daily%2C+ship+weekly" alt="Typing SVG" />
   </a>
 </div>
 
@@ -77,15 +77,13 @@ Most of my work is **scratching my own itch**, then open-sourcing it. If you fin
 
 ## 🛠️ Open-Source Portfolio
 
-> 30+ public repos across AI, Web3, systems, native, and personal infra.
+> 25+ public repos across AI, Web3, systems, native, and personal infra.
 > All descriptions below are pulled from the repos themselves.
 
 ### 🤖 AI & Productivity
 
 | Repo | What it does | Stack | Stars |
 |---|---|---|---|
-| [**hot-track**](https://github.com/Leejaywell/hot-track) | AI hot-topic radar. Aggregates 8+ sources (Twitter, HackerNews, Bing, Sogou, B站…), runs LLM fact-check + relevance + summary, and pushes via WebSocket + email. Ships as an Agent Skill pack so Cursor / Claude Code / Copilot can call it directly. | React 19 · Express 5 · OpenRouter · Socket.io | ![](https://img.shields.io/github/stars/Leejaywell/hot-track?style=flat-square&label=&color=00E676) |
-| [**github-i18n**](https://github.com/Leejaywell/github-i18n) | GitHub App that translates any repo's Markdown into 20+ languages on every push and opens a PR. Incremental sync, BYO model (GPT / Claude / Gemini / DeepSeek via OpenRouter), zero CI config. | Next.js 15 · Prisma · MySQL · GitHub App · OpenRouter | ![](https://img.shields.io/github/stars/Leejaywell/github-i18n?style=flat-square&label=&color=00E676) |
 | [**Inflowee**](https://github.com/Leejaywell/Inflowee) | Personal monitoring SaaS — define a goal, plug in sources, get AI-generated daily briefs in your inbox. Local-first SQLite by default, Postgres in prod, with an MCP server for agent integration. | Next.js 16 · React 19 · Prisma · Inngest · MCP SDK | ![](https://img.shields.io/github/stars/Leejaywell/Inflowee?style=flat-square&label=&color=00E676) |
 | [**digi-life**](https://github.com/Leejaywell/digi-life) | "Digital life for everyone" — personal data service. | NestJS · TypeScript | ![](https://img.shields.io/github/stars/Leejaywell/digi-life?style=flat-square&label=&color=00E676) |
 
@@ -125,7 +123,7 @@ Most of my work is **scratching my own itch**, then open-sourcing it. If you fin
 
 <div align="center">
   <a href="https://github.com/Leejaywell?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2030%2B%20repos-→-00E676?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/See%20all%2025%2B%20repos-→-00E676?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
